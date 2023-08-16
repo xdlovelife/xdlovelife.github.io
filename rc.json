@@ -1,0 +1,46 @@
+{
+   "RepositoryName": "xdlovelife - Testing",
+   "RepositoryDescription": "Lee: Hmm. Pointy",
+   "RepositoryAuthor": "xdlovelife - ios nobble",
+   "RepositoryIcon": "https://github.xdlovelife.io/hackzy01/misio/main/assets/Repository.png",
+   "RepositoryWebsite": "https://github.com/hackzy01/misio",
+   "Default":{
+       "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Header.png",
+       "ViewCount": true
+   },    
+   "RepositoryContents": [
+       {
+           "Name": "Checkl0ck",
+           "Description": "Give your lock screen a jailbreak touch",
+           "Category": "Lock Screen",
+           "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol\n\nBased on a jailbreak tweak called LatchKey",
+           "MinIOSVersion": "15.0",
+           "MaxIOSVersion": "17.0",
+           "Author": {
+               "Label": "HackZy",
+               "Links": [
+                   {
+                       "Label": "GitHub",
+                       "Link": "https://GitHub.com/hackzy01"
+                   },
+                   {
+                       "Label": "Twitter",
+                       "Link": "https://twitter.com/hackzy01"
+                   }
+               ]
+           },
+           "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/icon.png",
+           "Screenshot": [
+               "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/Screenshot1.png",
+               "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/Screenshot2.png"
+           ],
+           "Releases": [
+               {
+                   "Version": "1.1",
+                   "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.checklock.misaka",
+                   "Description": "Good luck"
+               }
+           ],
+           "PackageID": "com.hackzy.checklock"
+       }   ]
+}
